@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <Preference
+        android:summary="@string/setting_notification_access_summary"
+        android:title="@string/setting_notification_access_title" >
+        <intent android:action="android.settings.ACTION_NOTIFICATION_LISTENER_SETTINGS" />
+    </Preference>
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="@string/setting_key_message_content"
+        android:summary="@string/setting_message_content_summary"
+        android:title="@string/setting_message_content_title" />
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="@string/setting_key_persistent_notification"
+        android:summary="@string/setting_persistent_notification_summary"
+        android:title="@string/setting_persistent_notification_title" />
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="@string/setting_key_world_readable"
+        android:summary="@string/setting_world_readable_summary"
+        android:title="@string/setting_world_readable_title" />
+
+</PreferenceScreen>

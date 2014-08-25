@@ -1,0 +1,42 @@
+<resources>
+
+    <string name="app_name">DashClock Skype Extension</string>
+    <string name="extension_description">Отображает количество непрочитанных Skype сообщений и пропущенных Skype звонков.</string>
+    <string name="extension_label">Skype</string>
+    <string name="settings_label">Настройки</string>
+    <string name="setting_notification_access_summary">Для работы расширения требуется доступ к уведомлениям, нажмите для настройки.</string>
+    <string name="setting_notification_access_title">Доступ к уведомлениям</string>
+    <string name="error_status">Ошибка</string>
+    <string name="error_notification_access_title">Доступ к уведомлениям запрещён</string>
+    <string name="error_notification_access_body">Для работы расширения требуется доступ к уведомлениям, нажмите для настройки</string>
+    <string name="error_extension_access_title">Доступ к данным расширения запрещён</string>
+    <string name="error_extension_access_body">Доступ к данным расширения запрещён, нажмите для настройки</string>
+    <string name="status">%1$d / %2$d</string>
+    <string name="status_short">%1$d</string>
+    <string name="title">%1$s / %2$s</string>
+    <string name="body">%1$s\n%2$s</string>
+    <string name="missed_call_body">Пропущенный вызов</string>
+    <string name="missed_calls_body">Последний вызов: %1$s</string>
+    <string name="unread_messages_body">Последнее сообщение: %1$s</string>
+    <string name="no_new_messages_title">Новых сообщений нет</string>
+    <string name="setting_persistent_notification_title">Постоянное уведомление</string>
+    <string name="setting_persistent_notification_summary">Показывать уведомление в случае отсутствия новых сообщений</string>
+    <string name="setting_message_content_summary">Показывать содержание сообщения</string>
+    <string name="setting_message_content_title">Содержание сообщения</string>
+    <string name="setting_world_readable_title">Публичный доступ</string>
+    <string name="setting_world_readable_summary">Разрешить другим приложениям читать данные расширения</string>
+
+    <plurals name="unread_messages_title">
+        <item quantity="one">1 новое сообщение</item>
+        <item quantity="few">%1$d новых сообщения</item>
+        <item quantity="many">%1$d новых сообщений</item>
+        <item quantity="other">%1$d новых сообщений</item>
+    </plurals>
+    <plurals name="missed_calls_title">
+        <item quantity="one">1 пропущенный вызов</item>
+        <item quantity="few">%1$d пропущенных вызова</item>
+        <item quantity="many">%1$d пропущенных вызовов</item>
+        <item quantity="other">%1$d пропущенных вызовов</item>
+    </plurals>
+
+</resources>

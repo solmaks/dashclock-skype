@@ -1,0 +1,38 @@
+<resources>
+
+    <string name="app_name">DashClock Skype Extension</string>
+    <string name="extension_description">Displays the number of unread Skype messages and missed Skype calls.</string>
+    <string name="extension_label">Skype</string>
+    <string name="settings_label">Skype Extension Settings</string>
+    <string name="setting_notification_access_summary">This extension requires access to notifications, click to configure.</string>
+    <string name="setting_notification_access_title">Notification access</string>
+    <string name="error_status">Error</string>
+    <string name="error_notification_access_title">Notification access denied</string>
+    <string name="error_notification_access_body">This extension requires access to notifications, click to configure</string>
+    <string name="error_extension_access_title">Extension access denied</string>
+    <string name="error_extension_access_body">Access from applications other than DashClock Widget is forbidden, click to configure</string>
+    <string name="status">%1$d / %2$d</string>
+    <string name="status_short">%1$d</string>
+    <string name="title">%1$s / %2$s</string>
+    <string name="body">%1$s\n%2$s</string>
+    <string name="missed_call_body">Missed call</string>
+    <string name="missed_calls_body">Last call: %1$s</string>
+    <string name="unread_messages_body">Last message: %1$s</string>
+    <string name="no_new_messages_title">No new messages</string>
+    <string name="setting_persistent_notification_title">Persistent notification</string>
+    <string name="setting_persistent_notification_summary">Display notification if there are no new messages</string>
+    <string name="setting_message_content_summary">Display message content</string>
+    <string name="setting_message_content_title">Message content</string>
+    <string name="setting_world_readable_title">Public access</string>
+    <string name="setting_world_readable_summary">Allow applications other than DashClock Widget to access extension data</string>
+
+    <plurals name="unread_messages_title">
+        <item quantity="one">1 new message</item>
+        <item quantity="other">%1$d new messages</item>
+    </plurals>
+    <plurals name="missed_calls_title">
+        <item quantity="one">1 missed call</item>
+        <item quantity="other">%1$d missed calls</item>
+    </plurals>
+
+</resources>

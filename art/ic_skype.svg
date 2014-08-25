@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="864"
+   height="864"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="dashclock_skype.svg"
+   inkscape:export-filename="C:\Users\makso\Desktop\art\drawable-mdpi\ic_skype.png"
+   inkscape:export-xdpi="5"
+   inkscape:export-ydpi="5">
+  <defs
+     id="defs4">
+    <filter
+       id="filter3769"
+       inkscape:label="Invert"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3771"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3773"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98"
+     inkscape:cx="479.58933"
+     inkscape:cy="438.99174"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer4"
+     showgrid="true"
+     inkscape:window-width="1858"
+     inkscape:window-height="1177"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2993"
+       empspacing="18"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-188.36218)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Rounded">
+    <path
+       style="fill:#ffffff;fill-opacity:1;display:inline"
+       d="m 432,222 0,30.0625 C 432.73494,252.0232 433.473,252 434.21875,252 l 25.875,0 L 432,222 z M 684,491.09375 684,540 c 0,19.944 -17.0523,36 -38.21875,36 l -211.5625,0 C 433.473,576 432.73494,575.97683 432,575.9375 L 432,758 c 0,18 7.77396,18 18,18 43.34311,0 210.60742,-137.44825 275.03125,-191.78125 l 0,-35.4375 13,0 L 684,491.09375 z"
+       id="path3787"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1"
+       d="M 432.5,72 C 213.51667,72 36,208.99413 36,377.96875 c 0,168.97462 177.51667,305.9375 396.5,305.9375 218.98333,0 396.5,-136.96288 396.5,-305.9375 C 829,208.99413 651.48333,72 432.5,72 z m -178.875,198 357.5,0 c 20.84748,0 37.625,16.05601 37.625,36 0,19.94398 -16.77752,36 -37.625,36 l -357.5,0 C 232.77752,342 216,325.94398 216,306 c 0,-19.94399 16.77752,-36 37.625,-36 z m 0.59375,144 248.34375,0 c 21.16645,0 38.1875,16.056 38.1875,36 0,19.944 -17.02105,36 -38.1875,36 l -248.34375,0 C 233.0523,486 216,469.944 216,450 c 0,-19.944 17.0523,-36 38.21875,-36 z"
+       id="path3832"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
