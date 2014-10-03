@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="setting_key_persistent_notification">8ab567d2170aa3617fa61e6e747fc53e</string>
-    <string name="setting_key_message_content">f3511d5048b4009206d594d3022b0091</string>
-    <string name="setting_key_world_readable">b582665c66aab59ddf5b8a2ba7558431</string>
+    <string name="setting_key_persistent_notification" translatable="false">8ab567d2170aa3617fa61e6e747fc53e</string>
+    <string name="setting_key_message_content" translatable="false">f3511d5048b4009206d594d3022b0091</string>
+    <string name="setting_key_world_readable" translatable="false">b582665c66aab59ddf5b8a2ba7558431</string>
 
 </resources>
