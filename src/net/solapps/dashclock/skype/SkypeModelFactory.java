@@ -12,7 +12,7 @@ public class SkypeModelFactory implements IModelFactory<SkypeModel> {
 
     private static final int GENERIC_NOTIFICATION = 2;
     private static final int IM_NOTIFICATION = 48;
-    private static final int CALL_NOTIFICATION_MASK = 0x70000000;
+    private static final int CALL_NOTIFICATION_MASK = 0x80000000;
 
     @Override
     public SkypeModel createFrom(List<StatusBarNotification> sbns) {
